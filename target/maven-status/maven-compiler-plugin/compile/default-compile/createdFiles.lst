@@ -1,8 +1,4 @@
-hello\PasswordResult.class
-hello\CheckPasswordController.class
-hello\HelloWorldController.class
 hello\User.class
 hello\UserController.class
 hello\HelloWorldApplication.class
-hello\Greeting.class
 hello\UserRepository.class
